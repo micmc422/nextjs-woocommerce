@@ -3,7 +3,7 @@
 // Live details
 
 export const WOO_CONFIG = {
-  GRAPHQL_URL: 'https://woo.dfweb.no/graphql',
+  GRAPHQL_URL: 'https://photo.paris/site/graphql',
   ALGOLIA_APP_ID: '7L9M5Y0B1K',
   ALGOLIA_PUBLIC_API_KEY: '6f03421b21d2320c3d544777235debf1',
   ALGOLIA_INDEX_NAME: 'dfweb',
